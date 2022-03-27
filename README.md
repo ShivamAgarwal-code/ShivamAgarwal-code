@@ -44,7 +44,6 @@ ________________________________________________________________________________
 [![Twitter Badge](http://img.shields.io/badge/-@ShivamA40077372-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ShivamA40077372)](https://twitter.com/ShivamA40077372)
 [![Linkedin Badge](https://img.shields.io/badge/-Shivam%20Agarwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivam-agarwal-code/)](https://www.linkedin.com/in/shivam-agarwal-code/)
 [![Medium Badge](https://img.shields.io/badge/@shivamagarwal-blue?style=social&logo=Medium&link=https://medium.com/@agarwalshivam116)](https://medium.com/@agarwalshivam116)
-[![Showcase Badge](https://img.shields.io/badge/-Shivam%20Agarwal-blue?style=social&logo=Showcase&link=https://www.showwcase.com/shivamagarwal-code85)](https://www.showwcase.com/shivamagarwal-code85)
 [![Facebook Badge](https://img.shields.io/badge/-Shivam%20Agarwal-blue?style=social&logo=Facebook&link=https://www.facebook.com/profile.php?id=100057374888497)](https://www.facebook.com/profile.php?id=100057374888497)
 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamAgarwal-code&show_icons=true&hide=["issues"]&theme=vue)
