@@ -5,7 +5,7 @@ ________________________________________________________________________________
 **I am a self driven and versatile individual with a strong interest in Development and passion for strategical development, public speaking, leadership activities and writing✍🏼. I am a music enthusiast as well and a Cricket Player⚽. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.**
 ___________________________________________________________________________________________________________________________________
  I code for `Fun` in any language including:  
-| C/C++ | Python | JavaScript | Java
+| C/C++ | Python | JavaScript | Java   
 | :---: | :---:  | :---: | :---: | :---: |
 ___________________________________________________________________________________________________________________________________
 ### Technologies & Frameworks I have worked with :
