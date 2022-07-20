@@ -79,4 +79,4 @@
   
 
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://raw.githubusercontent.com/ShivamAgarwal-code/ShivamAgarwal-code/output/github-contribution-grid-snake.svg)
+![snake gif](gitartwork.svg)
