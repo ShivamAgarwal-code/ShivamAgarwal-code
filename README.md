@@ -1,10 +1,12 @@
-# Hi, I am Prashant <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hi, I am Shivam <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 <p align='center'> 
  <img src = "https://github.com/prashantkr006/prashantkr006-banner/blob/main/banner.gif" width = "100%" height = "400px">
 <p align='center'> 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantkr006.prashantkr006)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ShivamAgarwal-code
+.ShivamAgarwal-code
+)
 
 </p>
 <div size='20px'><h2> Thankyou for reaching out here, working for the betterment of the Humanity :smile: </h2>
@@ -17,14 +19,15 @@
 
 - 🔭 I’m currently working on Community Projects
 
-- 🌱 I’m currently learning Pixel perfect mobile app development. enhanced UI and machine learning algorithms 
+- 🌱 I’m currently learning Web3, different blockchain technologies like Solana, Polkadot, etc.
 
 - 👯 I’m looking to collaborate on Projects, new Ideas 
 
-- 💬 Talk to me about Python, JavaScript, Java, React, Freelancing Opportunities, Open Source 
+- 💬 Talk to me about C++, Python, JavaScript, Java, React, Freelancing Opportunities, Open Source 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/prashantkr006?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/ShivamAgarwal-code
+?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/prashantkr006?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/prashantkr006?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/prashantkr006?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
