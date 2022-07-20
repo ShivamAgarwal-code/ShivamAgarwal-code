@@ -4,9 +4,7 @@
 <p align='center'> 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ShivamAgarwal-code
-.ShivamAgarwal-code
-)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ShivamAgarwal-code.ShivamAgarwal-code)
 
 </p>
 <div size='20px'><h2> Thankyou for reaching out here, working for the betterment of the Humanity :smile: </h2>
