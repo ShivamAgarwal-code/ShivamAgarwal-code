@@ -78,5 +78,5 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
   
 
-## Watch my contributions get eaten by a snake 🐍
+## Watch my name as contributions
 ![snake gif](gitartwork.svg)
