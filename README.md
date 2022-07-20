@@ -1,6 +1,6 @@
 # Hi, I am Shivam <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 <p align='center'> 
- <img src = "https://github.com/prashantkr006/prashantkr006-banner/blob/main/banner.gif" width = "100%" height = "400px">
+ <img src = "WhatsApp Ime 2022-07-16 at 2.57.27 PM.jpg" width = "100%" height = "400px">
 <p align='center'> 
 
 
