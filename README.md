@@ -58,24 +58,20 @@
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/ShivamAgarwal-code/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@prashantkr006&compact=True"/>
-</a>
-<br>
 
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=ShivamAgarwal-code&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamAgarwal-code&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shivam Agarwal" /></td>
+  </tr>
+</table>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamAgarwal-code&theme=dark" alt="ShivamAgarwal" /></p>
+  </div>
 
-<a href="https://github.com/ShivamAgarwal-code/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ShivamAgarwal-code&count_private=true&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/ShivamAgarwal-code/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamAgarwal-code&theme=synthwave" />
-</a>
-<br/>
-<br/>
-
-<a href="https://github.com/ShivamAgarwal-code/github-readme-activity-graph"><img alt="Shivam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShivamAgarwal-code&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ [![ShivamAgarwal-code's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShivamAgarwal-code&theme=xcode)](https://git.io/ShivamAgarwal-code)
 
 <br/>
 <br/>
